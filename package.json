@@ -1,6 +1,6 @@
 {
   "name": "pagination-sorting-searching-filtering",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "pagination-sorting-searching-filtering",
   "main": "dist/index.js",
   "scripts": {
